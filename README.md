@@ -1,12 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&fontColor=DA70D6&height=300&section=header&text=Hi%,I'm...&fontSize=50)
-<h3 align="center">I'm a growing programmer to be PRO!</h3>
+<h2 align="left">I'm a growing programmer to be PRO!</h2>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leehyungjoo" alt="leehyungjoo" /></a> </p>
-
-- 🌱 I’m currently learning **C#, Computer Science**
+- 🌱 I’m currently learning **`C#`, `Computer Science`** and I've been coding since `2020`.
 
 - 📝 I try to Post what I learned.
   - [Post - Notion](https://www.notion.so/prism9411/5b8b3377027f44db8230fb565d7d712a?v=f76cbcf0e569458e8de852b5a3dc3212&pvs=4)
