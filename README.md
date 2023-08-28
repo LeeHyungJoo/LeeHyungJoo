@@ -23,7 +23,7 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leehyungjoo&show_icons=true&locale=en&layout=compact" alt="leehyungjoo" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leehyungjoo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="leehyungjoo" /></p>
 
 
 
