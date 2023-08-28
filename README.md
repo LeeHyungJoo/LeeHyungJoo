@@ -9,9 +9,12 @@
   - [Word Dictionary - Notion](https://www.notion.so/prism9411/53708fe4bd964cc0a8f5218f0a70e391?v=54118706e45e4d7da6aec5dd0ce80146&pvs=4)
   - [Blog - NAVER](https://blog.naver.com/sj_artist)
 
+  
+- Keep training Algorithm !
+    - [Programmers](https://career.programmers.co.kr/pr/281955_2431)
+    - [Baekjoon](https://www.acmicpc.net/user/gudwn9411)
+      
 - 📫 How to reach me **prism9411@gmail.com**
-
-
 #
 
 <h3 align="left">Languages</h3>
