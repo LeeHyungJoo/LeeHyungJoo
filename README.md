@@ -10,7 +10,7 @@
   - [Blog - NAVER](https://blog.naver.com/sj_artist)
 
   
-- Keep training Algorithm !
+- :muscle: Keep training Algorithm !
     - [Programmers](https://career.programmers.co.kr/pr/281955_2431)
     - [Baekjoon](https://www.acmicpc.net/user/gudwn9411)
       
