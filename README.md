@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&fontColor=DA70D6&height=160&section=header&text=2B%PRO&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&fontColor=DDA0DD&height=160&section=header&text=2B%PRO&fontSize=50)
 <h2 align="left">I'm a growing programmer to be PRO!</h2>
 
 - 🌱 I’m currently learning **`C#`, `Computer Science`** and I've been coding since `2020`.
