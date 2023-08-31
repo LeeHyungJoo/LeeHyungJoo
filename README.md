@@ -13,7 +13,7 @@
 - :muscle: Keep training Algorithm !
     - [Programmers](https://career.programmers.co.kr/pr/281955_2431)
     - [Baekjoon](https://www.acmicpc.net/user/gudwn9411)
-    - [Repos - Git](https://github.com/LeeHyungJoo/Lecture_Algorithm)
+    - [Repository - Git](https://github.com/LeeHyungJoo/Lecture_Algorithm)
       
 - 📫 How to reach me **prism9411@gmail.com**
 #
