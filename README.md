@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=120&section=header)
 <h2 align="left">I'm a growing programmer to be PRO!</h2>
 
-- 🌱 I’m currently learning **`C#` `C++`, `Computer Science` and... `asp.net` too **.
+- 🌱 I’m currently learning **`C#` `C++`, `Computer Science` and... `asp.net` too**.
 
 - 📝 I try to Post what I learned.
   - [Post - Notion](https://www.notion.so/prism9411/5b8b3377027f44db8230fb565d7d712a?v=f76cbcf0e569458e8de852b5a3dc3212&pvs=4)
