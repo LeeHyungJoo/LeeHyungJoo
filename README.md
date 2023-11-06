@@ -37,7 +37,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leehyungjoo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="leehyungjoo" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeHyungJoo&show_icons=true&theme=one_dark_pro)
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leehyungjoo&show_icons=true&locale=en" alt="leehyungjoo" /></p>
