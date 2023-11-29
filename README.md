@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=120&section=header)
-<h2 align="left">I'm a growing programmer to be PRO!</h2>
+<h2 align="left">"PRO"grammer</h2>
 
 - 🌱 I’m currently learning **`C#` `C++`, `Computer Science`, `Algorithm` and... `asp.net` too**.
 
