@@ -12,7 +12,7 @@ When I'm in the team, I prioritize fostering a `friendly connection` and `positi
 - 🎮 `Unity`: Proficient in developing tool code
 - 🧠 Always learning through `algorithm` problem-solving
     - [Repository - Git](https://github.com/LeeHyungJoo/Lecture_AlgorithmTraining/activity)
-- I am learning `computer science knowledge` and <br>
+- I am learning `computer science` and <br>
     `soft-skills` necessary for software development by taking `Internet lectures` or `reading books`.
 - 📝 I try to Post what I learned.
   - [Post - Notion](https://www.notion.so/prism9411/5b8b3377027f44db8230fb565d7d712a?v=f76cbcf0e569458e8de852b5a3dc3212&pvs=4)
