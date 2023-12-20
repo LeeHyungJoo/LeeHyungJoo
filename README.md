@@ -44,8 +44,8 @@ When I'm in the team, I prioritize fostering a `friendly connection` and `positi
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leehyungjoo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="leehyungjoo" /></p>
 
 
-<!--
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leehyungjoo&show_icons=true&locale=en" alt="leehyungjoo" /></p>
--->
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer)
