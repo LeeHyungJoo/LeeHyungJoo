@@ -2,7 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=120&section=header)
 <h2 align="left">"PRO"grammer</h2>
 
-I'm passionate about coding and game creation. <br>
 As a Developer, I value `mental and physical strength`. So I steadily practice `meditation` and `exercise` to grow them. <br>
 When I'm in the team, I prioritize fostering a `friendly connection` and `positive mind-set`. <br>
 
