@@ -2,10 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=120&section=header)
 <h2 align="left">"PRO"grammer</h2>
 
-- 🚀 Main Languages: `C#`, `C++`
-- 💾 Databases: `MySQL`, `Redis`
-- 🧠 Everyday `algorithm`
 - 🧩 Object Oriented
+- 🚀 Main Languages: `C++` `C#`
+- 💾 Databases: `MySQL` `Redis`
+- 🧠 Everyday `algorithm`
   
 - 📝 I try to Post what I learned.
   - [Post - Notion](https://prism9411.notion.site/5b8b3377027f44db8230fb565d7d712a?v=809b8d133f714ff6beb93d4d609d3bd5&pvs=4)
