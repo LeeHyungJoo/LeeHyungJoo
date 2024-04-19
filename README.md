@@ -10,9 +10,10 @@
 - 📝 I try to Post what I learned.
   - [Post - Notion](https://prism9411.notion.site/5b8b3377027f44db8230fb565d7d712a?v=809b8d133f714ff6beb93d4d609d3bd5&pvs=4)
   - [Word Dictionary - Notion](https://prism9411.notion.site/53708fe4bd964cc0a8f5218f0a70e391?v=54118706e45e4d7da6aec5dd0ce80146&pvs=4)
-  - ~[Youtube(~2019)](https://www.youtube.com/@user-jv4ox4sr4v/featured)~
-  - ~[Naver Blog(~2023)](https://blog.naver.com/sj_artist)~
+  - ~[Naver Blog](https://blog.naver.com/sj_artist)~ (~2023)
+  - ~[Youtube](https://www.youtube.com/@user-jv4ox4sr4v/featured)~ (~2019)
 
+    
 - 📫 How to reach me **prism9411@gmail.com**
 
   
