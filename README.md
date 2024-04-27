@@ -16,7 +16,29 @@
     
 - 📫 How to reach me **prism9411@gmail.com**
 
+#
+
+<h3 align="left">Link Guide (Portfolio) </h3>
+
+- 알고리즘
+  - [알고리즘 공부](https://github.com/LeeHyungJoo/learn_Algorithm)
+
+- 게임
+  - [HifeSurvival(C#)](https://github.com/KKangTaee/HifeSurvival)
+      - 전투 동기화 서버 구현.
+      - [객체 상속 구조 설계](https://github.com/KKangTaee/HifeSurvival/blob/master/HifeSurvival/RealtimeServer/Server/Entity/Entity.cs) : XXX State 클래스들 `ChangeState()` 추상 메서드를 활용해 객체들을 상태 전이에 따른 행동 제어.
+      - [게임 전체 흐름 제어](https://github.com/KKangTaee/HifeSurvival/blob/master/HifeSurvival/RealtimeServer/Server/Room/GameRoom.cs) : Room 의 Status 에 따라 흐름 제어
+      - [데이터의 계층화 작업](https://github.com/KKangTaee/HifeSurvival/blob/master/HifeSurvival/RealtimeServer/Server/GameData/GameData.cs) : DTO DAO 데이터 다루는 것에 Layer 를 나눴을 때 얻는 이점을 활용. 데이터 유효성 체크 및 Bake(cache)`GameData::BakeAndValidCheckData()` 구현.
   
+- MFC (WinAPI)
+  - [수학 및 랜더링 공부](https://github.com/LeeHyungJoo/learn_MFC)
+
+- 그 밖의 작은 토이 프로젝트
+  - [Json 익스포터(C#)](https://github.com/LeeHyungJoo/toy_exceltojsonexporter)
+  - [파일 내용 변환 프로그램(C++)](https://github.com/LeeHyungJoo/toy_DocsMod)
+  - [오델로(C#)](https://github.com/LeeHyungJoo/toy_othello)
+  - [테트리스(C#)](https://github.com/LeeHyungJoo/toy_tetris)
+
 
 #
 
