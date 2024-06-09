@@ -15,7 +15,7 @@
 
     
 - 📫 How to reach me **prism9411@gmail.com**
-
+<!--
 #
 
 <h3 align="left">Link Guide (Portfolio) </h3>
@@ -41,7 +41,7 @@
 
 
 #
-
+-->
 <h3 align="left">Stacks</h3>
 <div align=left>
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
