@@ -1,7 +1,5 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=120&section=header)
-<h2 align="left">프로답게</h2>
-
 - 🧩 객체 지향 프로그래머 (`C++` `C#`)
 - 📝 포스트
   - [Post - Notion](https://prism9411.notion.site/5b8b3377027f44db8230fb565d7d712a?v=809b8d133f714ff6beb93d4d609d3bd5&pvs=4)
@@ -36,15 +34,9 @@
 
 #
 -->
-<h3 align="left">Stacks</h3>
 <div align=left>
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
-  <br>
-
-  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
 </div>
 
 #
